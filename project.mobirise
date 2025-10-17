@@ -85,7 +85,8 @@
         "meta_descr": "Color Schemes refer to the systematic way of combining and applying colors in design to create visual harmony, convey emotions, and express a specific style.\n\nIn simple terms, a color scheme is the way colors are paired together to help designers choose combinations that look balanced, pleasing, and thematically consistent.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/-2025-10-17.png"
       },
       "components": [
         {
